@@ -1,0 +1,6 @@
+{
+  "name": "Vijayakumar Electrical Services",
+  "description": "Reliable electrical maintenance, repairs, lighting, power solutions, and emergency electrical services in Pachalam, Kochi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
